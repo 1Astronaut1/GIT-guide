@@ -31,4 +31,4 @@
 
 ---
 
-[Previous](./Page5.md) | [Menu](readme.md) | [Next](Page7.md)
+[Previous](./Page6.md) | [Menu](readme.md) | [Next](Page8.md)
