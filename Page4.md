@@ -6,4 +6,4 @@
 
 ---
 
-[Previous](./Page3.md) | [Menu](readme.md) | [Next](Page5.md)
+[Назад](./Page3.md) | [Меню](readme.md) | [Дальше](Page5.md)

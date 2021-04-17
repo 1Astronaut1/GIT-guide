@@ -16,4 +16,4 @@
 
 ---
 
-[Previous](./Page7.md) | [Menu](readme.md)
+[Назад](./Page7.md) | [Меню](readme.md)

@@ -20,4 +20,4 @@
 
 ---
 
-[Previous](./Page5.md) | [Menu](readme.md) | [Next](Page7.md)
+[Назад](./Page5.md) | [Меню](readme.md) | [Дальше](Page7.md)

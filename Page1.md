@@ -9,4 +9,4 @@ GIT logo by [Jason Long](https://twitter.com/jasonlong) - http://git-scm.com/dow
 
 ---
 
-[Menu](readme.md) | [Next](Page2.md)
+[Меню](readme.md) | [Дальше](Page2.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[Previous](./Page2.md) | [Menu](readme.md) | [Next](Page4.md)
+[Назад](./Page2.md) | [Меню](readme.md) | [Дальше](Page4.md)
